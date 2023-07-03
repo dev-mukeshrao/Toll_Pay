@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tollmarkers>
+	<tollmarker name="thakurtola" id="4" lat="21.117394" lng="81.120557"/>
+	<tollmarker name="bankapur" id="5" lat="14.907226" lng="75.282655"/>
+	<tollmarker name="hirebagewadi" id="6" lat="15.765275" lng="74.646516"/>
+	<tollmarker name="durg bypass dhamdanaka" id="7" lat="21.214515" lng="81.283365"/>
+	<tollmarker name="hattargi" id="8" lat="16.140747" lng="74.516839"/>
+	<tollmarker name="kognoli" id="9" lat="16.537916" lng="74.318741"/>
+	<tollmarker name="tundla" id="10" lat="27.217376" lng="78.275873"/>
+	<tollmarker name="brahamarakotlu" id="11" lat="12.875278" lng="75.00576"/>
+	<tollmarker name="cable stayed naini bridge" id="12" lat="25.415306" lng="81.859177"/>
+	<tollmarker name="bassi" id="13" lat="25.03293" lng="74.815985"/>
+	<tollmarker name="aroli" id="14" lat="25.09092" lng="75.199974"/>
+	<tollmarker name="dhaneshwar" id="15" lat="25.071394" lng="75.602576"/>
+	<tollmarker name="fatehpur" id="16" lat="25.118567" lng="76.569343"/>
+	<tollmarker name="simliya" id="17" lat="25.169707" lng="76.131596"/>
+	<tollmarker name="omallur" id="18" lat="11.72055" lng="78.072858"/>
+	<tollmarker name="nathakkarai" id="19" lat="11.591937" lng="78.77809"/>
+	<tollmarker name="veeracholapuram west" id="20" lat="11.736551" lng="79.007166"/>
+	<tollmarker name="palayam dharmapuri" id="21" lat="12.008726" lng="78.082495"/>
+	<tollmarker name="rasampalayan" id="22" lat="11.193527" lng="78.100199"/>
+	<tollmarker name="nemili sriperumbudur" id="23" lat="12.982991" lng="79.971347"/>
+	<tollmarker name="joya" id="24" lat="28.836293" lng="78.422436"/>
+	<tollmarker name="khalghat -mp/maharashtra bordersendhwa" id="25" lat="21.758102" lng="75.158082"/>
+	<tollmarker name="boothakudi" id="26" lat="10.642738" lng="78.582495"/>
+	<tollmarker name="chittampatti" id="27" lat="9.991573" lng="78.245615"/>
+	<tollmarker name="banglore - neelamangla" id="28" lat="13.08967" lng="77.40229"/>
+	<tollmarker name="chalageri" id="29" lat="14.555547" lng="75.730305"/>
+	<tollmarker name="choundha" id="30" lat="26.518391" lng="77.968844"/>
+	<tollmarker name="brijghat" id="31" lat="28.768628" lng="78.1061"/>
+	<tollmarker name="usaka  chamari" id="34" lat="26.035899" lng="79.576037"/>
+	<tollmarker name="indore dewas indore bypass" id="35" lat="22.822106" lng="75.938235"/>
+	<tollmarker name="dasna" id="36" lat="28.684712" lng="77.520969"/>
+	<tollmarker name="semri" id="38" lat="25.637719" lng="78.8755"/>
+	<tollmarker name="sivaya" id="39" lat="29.093665" lng="77.71084"/>
+	<tollmarker name="daffi" id="40" lat="25.248629" lng="82.995299"/>
+	<tollmarker name="mohania" id="41" lat="25.187061" lng="83.562457"/>
+	<tollmarker name="allahabad bypass" id="42" lat="25.562809" lng="81.754225"/>
+	<tollmarker name="sasaram" id="43" lat="24.957655" lng="83.953661"/>
+	<tollmarker name="anantram" id="44" lat="26.596783" lng="79.265748"/>
+	<tollmarker name="tendua gorakhpur bypass" id="45" lat="26.725213" lng="83.271855"/>
+	<tollmarker name="barajod" id="47" lat="26.386389" lng="80.021485"/>
+	<tollmarker name="bharudi" id="48" lat="21.803339" lng="70.66198"/>
+	<tollmarker name="pithadiya" id="49" lat="22.080872" lng="70.781208"/>
+	<tollmarker name="choryasi" id="50" lat="21.305936" lng="72.954706"/>
+	<tollmarker name="dastan" id="51" lat="18.919019" lng="73.010778"/>
+	<tollmarker name="chirle" id="52" lat="18.939769" lng="73.031853"/>
+	<tollmarker name="karanjade" id="54" lat="18.976166" lng="73.098841"/>
+	<tollmarker name="anewadi" id="56" lat="17.807299" lng="73.97313"/>
+	<tollmarker name="mettupatti" id="57" lat="11.664682" lng="78.310001"/>
+	<tollmarker name="doddakarenahalli neelmangala" id="58" lat="13.066847" lng="77.358615"/>
+	<tollmarker name="thirumandurai" id="59" lat="11.395146" lng="78.991457"/>
+	<tollmarker name="paduna" id="61" lat="24.269379" lng="73.674117"/>
+	<tollmarker name="patas" id="64" lat="18.422679" lng="74.467754"/>
+	<tollmarker name="thandikhui" id="66" lat="32.61261" lng="74.936995"/>
+	<tollmarker name="daroada" id="67" lat="20.452417" lng="78.756773"/>
+	<tollmarker name="samakhiyali" id="68" lat="23.307697" lng="70.49426"/>
+	<tollmarker name="kelapur" id="70" lat="20.018037" lng="78.540114"/>
+	<tollmarker name="nandgaon peth" id="71" lat="20.949938" lng="77.788897"/>
+	<tollmarker name="mundiyar" id="72" lat="25.204846" lng="77.134308"/>
+	<tollmarker name="raksha" id="73" lat="25.462514" lng="78.448863"/>
+	<tollmarker name="ramnagar" id="74" lat="25.278746" lng="77.611456"/>
+	<tollmarker name="athur" id="75" lat="12.344664" lng="79.780454"/>
+	<tollmarker name="vanagaram chennai bypass" id="76" lat="13.046575" lng="80.149719"/>
+	<tollmarker name="mandawnagar" id="77" lat="26.811904" lng="82.73293"/>
+	<tollmarker name="surapattu chennai bypass ii" id="79" lat="13.136981" lng="80.178556"/>
+	<tollmarker name="paranur" id="80" lat="12.72238" lng="79.981477"/>
+	<tollmarker name="nallur" id="82" lat="13.213561"  lng="80.170497"/>
+	<tollmarker name="allonia" id="84" lat="22.267385" lng="79.544761"/>
+	<tollmarker name="eliyarpathi" id="85" lat="9.780019" lng="78.094511"/>
+	<tollmarker name="pudurpandiyapuram" id="86" lat="8.865042" lng="78.116382"/>
+	<tollmarker name="guna bypass" id="87" lat="24.621881" lng="77.26258"/>
+	<tollmarker name="malthone" id="88" lat="24.319837" lng="78.526102"/>
+	<tollmarker name="badarpur" id="89" lat="28.482045" lng="77.304975"/>
+	<tollmarker name="titarpani" id="90" lat="23.213829" lng="79.041855"/>
+	<tollmarker name="gurau semra atikabad" id="92" lat="26.998689" lng="78.774271"/>
+	<tollmarker name="jajau old baretha" id="95" lat="26.934501" lng="77.934203"/>
+	<tollmarker name="vaiguntham" id="96" lat="11.511306" lng="77.921236"/>
+	<tollmarker name="makhel" id="97" lat="23.489247" lng="70.941226"/>
+	<tollmarker name="vijaymangalmam" id="98" lat="11.246477" lng="77.521885"/>
+	<tollmarker name="bhiladi" id="99" lat="24.142595" lng="71.975696"/>
+	<tollmarker name="kumbalam" id="100" lat="9.893638" lng="76.313201"/>
+	<tollmarker name="varahi" id="101" lat="23.791978" lng="71.424054"/>
+	<tollmarker name="velanchettiyur" id="102" lat="10.19752" lng="77.908767"/>
+	<tollmarker name="krishnagiri" id="103" lat="12.540386" lng="78.202685"/>
+	<tollmarker name="vikravandivillupuram" id="104" lat="12.022416" lng="79.536991"/>
+	<tollmarker name="pallikonda" id="105" lat="12.905565" lng="78.95038"/>
+	<tollmarker name="morattandi" id="106" lat="11.981263" lng="79.788596"/>
+	<tollmarker name="vaniyambadi" id="107" lat="12.653630" lng="78.586469"/>
+	<tollmarker name="nanguneri" id="108" lat="8.525667" lng="77.661891"/>
+	<tollmarker name="kodai road" id="109" lat="10.197245" lng="77.908788"/>
+	<tollmarker name="ludhawai" id="110" lat="27.179146" lng="77.418959"/>
+	<tollmarker name="etturvattam" id="111" lat="9.381755" lng="77.913787"/>
+	<tollmarker name="kappalur" id="112" lat="9.84388" lng="78.010766"/>
+	<tollmarker name="salaipudhur" id="113" lat="8.978162" lng="77.774764"/>
+	<tollmarker name="paliyekkara" id="114" lat="10.444549" lng="76.25927"/>
+	<tollmarker name="valavanthankottai" id="115" lat="10.740065" lng="78.837154"/>
+	<tollmarker name="karbylu bellur cross" id="116" lat="12.962824" lng="76.767925"/>
+	<tollmarker name="pudukottai vagaikulam" id="117" lat="8.755302" lng="78.064614"/>
+	<tollmarker name="samayapuram" id="118" lat="10.930687" lng="78.746106"/>
+	<tollmarker name="sengurichi" id="119" lat="11.708227" lng="79.323735"/>
+	<tollmarker name="korai" id="120" lat="27.114244" lng="77.713716"/>
+	<tollmarker name="khalghat indore - khalghat" id="121" lat="22.17258" lng="75.456271"/>
+	<tollmarker name="parsoni khem" id="123" lat="26.454113" lng="85.020651"/>
+	<tollmarker name="kishangarh" id="124" lat="26.594538" lng="74.934851"/>
+	<tollmarker name="maithi" id="125" lat="26.112207" lng="85.567925"/>
+	<tollmarker name="tatiyawas" id="129" lat="27.092373" lng="75.740407"/>
+	<tollmarker name="chiddan" id="130" lat="31.616944" lng="74.690496"/>
+	<tollmarker name="dappar" id="131" lat="30.52977" lng="76.814154"/>
+	<tollmarker name="gogunda jaswantgarh" id="132" lat="24.767937" lng="73.523009"/>
+	<tollmarker name="kurali behrampur" id="133" lat="30.841077" lng="76.570276"/>
+	<tollmarker name="jojro ka khera" id="134" lat="25.078182" lng="74.623843"/>
+	<tollmarker name="rithola" id="135" lat="24.850971" lng="74.582833"/>
+	<tollmarker name="khandi obari" id="136" lat="23.99471" lng="73.629641"/>
+	<tollmarker name="narayanpura" id="137" lat="24.613814" lng="74.227851"/>
+	<tollmarker name="malera" id="138" lat="24.713471" lng="73.093322"/>
+	<tollmarker name="ghoti" id="139" lat="19.707467" lng="73.613015"/>
+	<tollmarker name="vaghasia" id="140" lat="22.644186" lng="70.957605"/>
+	<tollmarker name="lakhanpur/ rajbagh" id="141" lat="32.38341" lng="75.600116"/>
+	<tollmarker name="dhumiyani" id="142" lat="21.75074" lng="70.323746"/>
+	<tollmarker name="chandwad" id="143" lat="20.326022" lng="74.213871"/>
+	<tollmarker name="khedshivapur" id="144" lat="18.334064" lng="73.852788"/>
+	<tollmarker name="baswant pimpalgaon" id="145" lat="20.140558" lng="73.973182"/>
+	<tollmarker name="sendurwafa" id="146" lat="21.087911" lng="80.029009"/>
+	<tollmarker name="shirpur" id="147" lat="21.321023" lng="74.890319"/>
+	<tollmarker name="gondhkhairi/ kondhali" id="148" lat="21.137036" lng="78.899023"/>
+	<tollmarker name="chandimandir" id="149" lat="30.740793" lng="76.899617"/>
+	<tollmarker name="dighal" id="150" lat="28.77636" lng="76.621807"/>
+	<tollmarker name="dhilwan" id="151" lat="31.499581" lng="75.319382"/>
+	<tollmarker name="gangaycha jatt" id="152" lat="28.276962" lng="76.613478"/>
+	<tollmarker name="nijjarpura" id="153" lat="31.578561" lng="74.994862"/>
+	<tollmarker name="panipat elevated" id="154" lat="29.431872" lng="76.970135"/>
+	<tollmarker name="gharaunda" id="155" lat="29.576574" lng="76.977936"/>
+	<tollmarker name="sambhughaggar" id="156" lat="30.403364" lng="76.738141"/>
+	<tollmarker name="ladowal" id="157" lat="30.991319" lng="75.789877"/>
+	<tollmarker name="karanja ghadge" id="158" lat="21.158513" lng="78.389829"/>
+	<tollmarker name="srinagar" id="159" lat="27.999706" lng="77.330682"/>
+	<tollmarker name="mahuvan" id="160" lat="27.339175" lng="77.735744"/>
+	<tollmarker name="lalanagar" id="161" lat="25.267409" lng="82.489142"/>
+	<tollmarker name="salemgarh" id="162" lat="26.632334" lng="84.23744"/>
+	<tollmarker name="muziana hetim" id="163" lat="26.733971" lng="83.806853"/>
+	<tollmarker name="chaukadi" id="164" lat="26.780625" lng="82.414485"/>
+	<tollmarker name="katoghan" id="165" lat="25.749863" lng="81.169858"/>
+	<tollmarker name="gurapalli" id="166" lat="19.637085" lng="85.139129"/>
+	<tollmarker name="srirampur" id="168" lat="20.681137" lng="86.164398"/>
+	<tollmarker name="gudipada old gangapada" id="169" lat="20.20281" lng="85.666842"/>
+	<tollmarker name="sergrarh (balasore)" id="170" lat="21.426678" lng="86.832603"/>
+	<tollmarker name="panikholi" id="171" lat="20.896373" lng="86.215274"/>
+	<tollmarker name="manguli" id="172" lat="20.541269" lng="85.965064"/>
+	<tollmarker name="krishnavaram" id="173" lat="17.212694" lng="82.108303"/>
+	<tollmarker name="rolmamda" id="174" lat="19.277858" lng="78.411997"/>
+	<tollmarker name="manoharabad" id="175" lat="17.802013" lng="78.47156"/>
+	<tollmarker name="gamjal" id="176" lat="19.024884" lng="78.363099"/>
+	<tollmarker name="pippalwada" id="177" lat="19.777952" lng="78.566019"/>
+	<tollmarker name="pundag" id="178" lat="23.540877" lng="85.499948"/>
+	<tollmarker name="sikandra" id="179" lat="26.94409" lng="76.556322"/>
+	<tollmarker name="rajadhok" id="180" lat="26.859189" lng="76.106839"/>
+	<tollmarker name="amoli" id="181" lat="27.101683" lng="77.09497"/>
+	<tollmarker name="thikariya" id="182" lat="26.841977" lng="75.611532"/>
+	<tollmarker name="barkheda - chandlai" id="183" lat="26.689358" lng="75.904186"/>
+	<tollmarker name="sonwa" id="184" lat="26.107583" lng="75.743094"/>
+	<tollmarker name="kanwaliyas" id="185" lat="25.754919" lng="74.630727"/>
+	<tollmarker name="hoskote" id="186" lat="13.058004" lng="77.769538"/>
+	<tollmarker name="bagepalli" id="187" lat="13.79422" lng="77.762806"/>
+	<tollmarker name="kirasave" id="188" lat="12.957641" lng="76.620393"/>
+	<tollmarker name="shanthigrama" id="189" lat="12.984228" lng="76.226566"/>
+	<tollmarker name="bann" id="190" lat="32.837709" lng="74.940413"/>
+	<tollmarker name="harsa mansar" id="191" lat="32.068679" lng="75.614412"/>
+	<tollmarker name="arjunali" id="193" lat="19.362277" lng="73.167169"/>
+	<tollmarker name="mansar kamptee - kanhan bypass/ tekadi" id="194" lat="21.380085" lng="79.25211"/>
+	<tollmarker name="borkhedi nagpur bypass" id="195" lat="20.85688" lng="78.96388"/>
+	<tollmarker name="laling dhule" id="197" lat="20.856829" lng="78.963852"/>
+	<tollmarker name="vanana" id="199" lat="21.663875" lng="69.707929"/>
+	<tollmarker name="ait" id="200" lat="25.88042" lng="79.21194"/>
+	<tollmarker name="vighaket" id="201" lat="24.791159" lng="78.450793"/>
+	<tollmarker name="khemana" id="202" lat="24.243901" lng="72.464554"/>
+	<tollmarker name="laxmipuram" id="203" lat="18.734137" lng="84.39034"/>
+	<tollmarker name="rajeold naraur" id="204" lat="26.225593" lng="86.151798"/>
+	<tollmarker name="chilakapalem" id="205" lat="18.27309" lng="83.807474"/>
+	<tollmarker name="indalwai" id="207" lat="18.536443" lng="78.238935"/>
+	<tollmarker name="sardewadi / indapur" id="208" lat="18.846605" lng="73.095008"/>
+	<tollmarker name="itunja" id="209" lat="27.499873" lng="80.755284"/>
+	<tollmarker name="ahmadpur" id="210" lat="26.858937" lng="81.421346"/>
+	<tollmarker name="ronahi" id="211" lat="26.768474" lng="81.94777"/>
+	<tollmarker name="nawabganj" id="212" lat="26.62331" lng="80.696169"/>
+	<tollmarker name="shahjahanpur" id="213" lat="28.002618" lng="76.434722"/>
+	<tollmarker name="manoharpur" id="214" lat="27.306569" lng="75.952998"/>
+	<tollmarker name="daulatpura" id="215" lat="27.089402" lng="75.835117"/>
+	<tollmarker name="raikal" id="216" lat="17.004551" lng="78.194317"/>
+	<tollmarker name="shakhapur" id="217" lat="16.538247" lng="77.946133"/>
+	<tollmarker name="gudur" id="218" lat="17.485086" lng="78.819991"/>
+	<tollmarker name="pullur" id="219" lat="15.890355" lng="78.017154"/>
+	<tollmarker name="vempadu" id="220" lat="17.396823" lng="82.672862"/>
+	<tollmarker name="panthangi" id="222" lat="17.234006" lng="78.956459"/>
+	<tollmarker name="paschim madati" id="223" lat="26.566543" lng="88.272395"/>
+	<tollmarker name="rampura" id="224" lat="22.239072" lng="87.391956"/>
+	<tollmarker name="rasoiya dhamna" id="225" lat="24.321615" lng="85.390385"/>
+	<tollmarker name="ghanghri" id="226" lat="24.029314" lng="85.951094"/>
+	<tollmarker name="keesara" id="227" lat="16.717454" lng="80.322286"/>
+	<tollmarker name="kaza" id="228" lat="16.38681" lng="80.534821"/>
+	<tollmarker name="budanam" id="229" lat="14.061480" lng="79.893696"/>
+	<tollmarker name="marur" id="230" lat="14.499483" lng="77.631087"/>
+	<tollmarker name="debra" id="231" lat="22.396941" lng="87.525253"/>
+	<tollmarker name="sonapetya" id="232" lat="22.340129" lng="87.867654"/>
+	<tollmarker name="bellupada" id="233" lat="19.112259" lng="84.699593"/>
+	<tollmarker name="madapam" id="235" lat="18.377614" lng="84.001958"/>
+	<tollmarker name="aganampudi" id="236" lat="17.686591" lng="83.149333"/>
+	<tollmarker name="balgudar" id="237" lat="25.202539" lng="86.081624"/>
+	<tollmarker name="saukala" id="238" lat="24.600758" lng="84.699848"/>
+	<tollmarker name="ponnambalapatti" id="239" lat="10.534554" lng="78.253744"/>
+	<tollmarker name="main toll gosthani gate" id="240" lat="17.71355" lng="83.2124"/>
+	<tollmarker name="kasaba bijapur" id="242" lat="16.788366" lng="75.738947"/>
+	<tollmarker name="venkatachallam  old nellore" id="243" lat="14.319378" lng="79.919796"/>
+	<tollmarker name="undavariya/ sirohi" id="244" lat="24.632712" lng="72.905189"/>
+	<tollmarker name="indore dewas indore side" id="245" lat="22.957972" lng="76.083982"/>
+	<tollmarker name="nathavalasa/ vizianagaram" id="246" lat="18.056405" lng="83.519921"/>
+	<tollmarker name="pottipadu" id="247" lat="16.571804" lng="80.861617"/>
+	<tollmarker name="kalaparru" id="248" lat="16.677039" lng="81.022802"/>
+	<tollmarker name="sullurpet" id="250" lat="13.748393" lng="79.987313"/>
+	<tollmarker name="sunambatti musunur" id="251" lat="14.841849" lng="79.989293"/>
+	<tollmarker name="bolapalli" id="252" lat="15.884492" lng="80.070738"/>
+	<tollmarker name="tangutur" id="253" lat="15.353170" lng="80.038843"/>
+	<tollmarker name="kasepalli" id="255" lat="15.063966" lng="77.6308"/>
+	<tollmarker name="tasawade" id="256" lat="17.366447" lng="74.122468"/>
+	<tollmarker name="kini" id="257" lat="16.876441" lng="74.298328"/>
+	<tollmarker name="amakathadu" id="258" lat="15.487728" lng="77.901455"/>
+	<tollmarker name="bhalgam" id="259" lat="23.911144" lng="71.783405"/>
+	<tollmarker name="laxmannath" id="260" lat="21.840831" lng="87.24746"/>
+	<tollmarker name="varwade" id="261" lat="17.960467" lng="75.327076"/>
+	<tollmarker name="gwalior bypass mehra" id="262" lat="26.198473" lng="78.241721"/>
+	<tollmarker name="surajbari" id="263" lat="23.234777" lng="70.687654"/>
+	<tollmarker name="sawaleshwar" id="264" lat="17.763048" lng="75.75974"/>
+	<tollmarker name="chitora" id="265" lat="23.725928" lng="78.809077"/>
+	<tollmarker name="bakoli" id="266" lat="23.835394" lng="79.440385"/>
+	<tollmarker name="guilalu" id="267" lat="14.054457" lng="76.559933"/>
+	<tollmarker name="karjeevanhalli" id="269" lat="13.613931" lng="76.953048"/>
+	<tollmarker name="navayuga devanahalli / sadahalli / pujanahalli" id="270" lat="13.194977" lng="77.651753"/>
+	<tollmarker name="kaythsandra/tumkur/chokkanahalli" id="271" lat="13.303702" lng="77.159507"/>
+	<tollmarker name="kherki daula" id="272" lat="28.393528" lng="76.979854"/>
+	<tollmarker name="palsit" id="273" lat="23.181262" lng="88.025429"/>
+	<tollmarker name="badauri" id="275" lat="26.065978" lng="80.656597"/>
+	<tollmarker name="nivedita setu" id="278" lat="22.655274" lng="88.321202"/>
+	<tollmarker name="dankuni" id="279" lat="22.696246" lng="88.290084"/>
+	<tollmarker name="jaladhulagori dhulagarh" id="280" lat="22.573149" lng="88.184326"/>
+	<tollmarker name="surjapur" id="281" lat="25.930519" lng="87.842061"/>
+	<tollmarker name="beliyad" id="282" lat="23.76343" lng="86.797451"/>
+	<tollmarker name="hariabara" id="283" lat="26.154291" lng="87.442928"/>
+	<tollmarker name="barsoni" id="284" lat="25.804228" lng="87.588269"/>
+	<tollmarker name="kharik" id="285" lat="25.378035" lng="87.046955"/>
+	<tollmarker name="maranga" id="286" lat="25.72773" lng="87.457826"/>
+	<tollmarker name="boriach" id="287" lat="20.882714" lng="73.054198"/>
+	<tollmarker name="bhagwada" id="288" lat="20.437013" lng="72.917404"/>
+	<tollmarker name="charoti" id="289" lat="19.88758" lng="72.943634"/>
+	<tollmarker name="khaniwade" id="290" lat="19.516418" lng="72.916942"/>
+	<tollmarker name="dahar" id="291" lat="29.321279" lng="76.922835"/>
+	<tollmarker name="makrauli kalan" id="292" lat="28.9472" lng="76.610997"/>
+	<tollmarker name="asanpur" id="294" lat="26.296521" lng="86.634513"/>
+	<tollmarker name="hebbalu" id="295" lat="14.375959" lng="76.105408"/>
+	<tollmarker name="chennasamudram" id="296" lat="12.912118" lng="79.398765"/>
+	<tollmarker name="songir" id="298" lat="21.047882" lng="74.784738"/>
+	<tollmarker name="igi airport" id="299" lat="28.543856" lng="77.115461"/>
+	<tollmarker name="shahapur" id="300" lat="15.360742" lng="76.313595"/>
+	<tollmarker name="vanagari" id="301" lat="16.28967" lng="75.924214"/>
+	<tollmarker name="bharthan" id="302" lat="22.010571" lng="73.11335"/>
+	<tollmarker name="diengpasoh" id="303" lat="25.648697" lng="92.048452"/>
+	<tollmarker name="thirupparaithurai" id="304" lat="10.885465" lng="78.558986"/>
+	<tollmarker name="manavasi" id="305" lat="10.931325" lng="78.21692"/>
+	<tollmarker name="lechchumanapatti" id="306" lat="10.622204" lng="78.748781"/>
+	<tollmarker name="vantada" id="308" lat="23.614297" lng="73.247828"/>
+	<tollmarker name="kathpur" id="309" lat="23.408517" lng="72.827271"/>
+	<tollmarker name="lembalakudi" id="310" lat="10.298712" lng="78.770798"/>
+	<tollmarker name="ahmedabad vadodra expressways" id="311" lat="22.977656" lng="72.647119"/>
+	<tollmarker name="attibele betl" id="312" lat="12.77778" lng="77.775182"/>
+	<tollmarker name="neelamangala - tumkur /kulumepalya" id="313" lat="13.116814" lng="77.372531"/>
+	<tollmarker name="elevated section/ electronic city phase-1" id="314" lat="12.845692" lng="77.66774"/>
+	<tollmarker name="nagarhalla" id="315" lat="16.289669" lng="75.924213"/>
+	<tollmarker name="gabbur" id="316" lat="15.319942" lng="75.13733"/>
+	<tollmarker name="narendra" id="321" lat="15.4846" lng="74.969843"/>
+	<tollmarker name="pamban bridge" id="324" lat="9.280718" lng="79.169676"/>
+	<tollmarker name="kalia bhomora bridge" id="326" lat="26.566698" lng="92.869644"/>
+	<tollmarker name="gangadhar bridge" id="330" lat="26.137793" lng="89.832254"/>
+	<tollmarker name="baggad" id="333" lat="25.592124" lng="73.904367"/>
+	<tollmarker name="bagaliya" id="338" lat="25.885209" lng="74.161722"/>
+	<tollmarker name="bagodara" id="339" lat="22.629388" lng="72.176981"/>
+	<tollmarker name="kharpada" id="340" lat="18.846751" lng="73.09503"/>
+	<tollmarker name="jia bridge" id="341" lat="31.900859" lng="77.144137"/>
+	<tollmarker name="savitri" id="342" lat="18.084807" lng="73.462624"/>
+	<tollmarker name="nashirabad" id="343" lat="21.013559" lng="75.671658"/>
+	<tollmarker name="fekri" id="344" lat="21.040962" lng="75.827958"/>
+	<tollmarker name="kharegaon" id="345" lat="19.215545" lng="73.010576"/>
+	<tollmarker name="moshi" id="346" lat="18.688319" lng="73.846487"/>
+	<tollmarker name="parvati bridge" id="347" lat="23.473689" lng="77.071222"/>
+	<tollmarker name="chandloirajgurunagar" id="348" lat="18.838604" lng="73.880344"/>
+	<tollmarker name="ashoka dsc katni bypass" id="349" lat="23.887709" lng="80.383472"/>
+	<tollmarker name="kawdipath" id="350" lat="18.493488" lng="73.991047"/>
+	<tollmarker name="kasurdi" id="351" lat="18.483492" lng="74.233333"/>
+	<tollmarker name="koshta" id="352" lat="24.549525" lng="81.347559"/>
+	<tollmarker name="kardha" id="353" lat="21.139731" lng="79.674305"/>
+	<tollmarker name="tiwasa" id="354" lat="21.082352" lng="78.057525"/>
+	<tollmarker name="nardana" id="357" lat="21.210114" lng="74.831026"/>
+	<tollmarker name="baretha" id="358" lat="26.319608" lng="78.271958"/>
+	<tollmarker name="wadakbal" id="359" lat="17.533789" lng="75.879432"/>
+	<tollmarker name="barahi" id="360" lat="26.681846" lng="78.916888"/>
+	<tollmarker name="patancheru prograssive construction toll" id="363" lat="17.523428" lng="78.27156"/>
+	<tollmarker name="rawason bridge" id="364" lat="29.842339" lng="78.191093"/>
+	<tollmarker name="nandghat bridge" id="366" lat="21.766099" lng="81.81199"/>
+	<tollmarker name="kharun" id="367" lat="21.252368" lng="81.536024"/>
+	<tollmarker name="kosa nala" id="368" lat="21.204743" lng="81.337644"/>
+	<tollmarker name="kundannur" id="370" lat="9.93673" lng="76.316517"/>
+	<tollmarker name="akkulam" id="371" lat="8.514866" lng="76.899369"/>
+	<tollmarker name="varapuzha bridge" id="373" lat="10.076344" lng="76.27752"/>
+	<tollmarker name="bhatwada" id="374" lat="22.792947" lng="73.839764"/>
+	<tollmarker name="chollang" id="375" lat="31.627648" lng="75.640147"/>
+	<tollmarker name="chillakallu" id="376" lat="16.886397" lng="80.156211"/>
+	<tollmarker name="korlaphadu" id="377" lat="17.160458" lng="79.477798"/>
+	<tollmarker name="hitnal" id="379" lat="15.322044" lng="76.306905"/>
+	<tollmarker name="madrak" id="380" lat="27.805318" lng="78.086965"/>
+	<tollmarker name="baros" id="381" lat="27.333882" lng="78.03089"/>
+	<tollmarker name="khairabad" id="384" lat="27.507217" lng="80.749982"/>
+	<tollmarker name="pithai" id="385" lat="22.909459" lng="72.960311"/>
+	<tollmarker name="vavadikhurd" id="386" lat="22.792534" lng="73.530278"/>
+	<tollmarker name="mulbagal" id="387" lat="13.147499" lng="78.287086"/>
+	<tollmarker name="kishorpur chandermore" id="388" lat="24.567129" lng="88.019415"/>
+	<tollmarker name="gopgram shibpur" id="389" lat="24.152779" lng="88.184082"/>
+	<tollmarker name="babina" id="394" lat="25.214889" lng="78.463887"/>
+	<tollmarker name="dahalapara" id="395" lat="26.226541" lng="90.349736"/>
+	<tollmarker name="niyamatpur ekrotiya" id="396" lat="28.814859" lng="78.900271"/>
+	<tollmarker name="triyakhetal" id="397" lat="28.477791" lng="79.284038"/>
+	<tollmarker name="guabari" id="398" lat="26.60167" lng="88.378716"/>
+	<tollmarker name="fulara" id="400" lat="22.043108" lng="79.419441"/>
+	<tollmarker name="chikhalikala" id="401" lat="21.808876" lng="78.369225"/>
+	<tollmarker name="jungawani" id="402" lat="22.378642" lng="79.151621"/>
+	<tollmarker name="jaitpur" id="403" lat="22.552344" lng="79.601144"/>
+	<tollmarker name="dakhina sekhpur" id="405" lat="26.526687" lng="81.064739"/>
+	<tollmarker name="kelwad" id="406" lat="21.471842" lng="78.872003"/>
+	<tollmarker name="shivnath bridge nandghat toll" id="407" lat="21.760132" lng="81.804716"/>
+	<tollmarker name="chullimada hamlet" id="408" lat="10.814820"  lng="76.799870"/>
+	<tollmarker name="aliyapur" id="409" lat="26.070982" lng="80.163125"/>
+	<tollmarker name="khanna" id="410" lat="25.548042" lng="80.061443"/>
+	<tollmarker name="baragarh" id="411" lat="21.351095" lng="83.689041"/>
+	<tollmarker name="ponnarimangalam" id="412" lat="10.010589" lng="76.257888"/>
+	<tollmarker name="ladpalwan" id="413" lat="32.196658" lng="75.533017"/>
+	<tollmarker name="waryam nangal" id="414" lat="31.734096" lng="75.044717"/>
+	<tollmarker name="deederganj" id="415" lat="25.571557" lng="85.244522"/>
+	<tollmarker name="akhepura" id="416" lat="27.506506" lng="75.347492"/>
+	<tollmarker name="milanpur" id="417" lat="21.862169" lng="77.953594"/>
+	<tollmarker name="khambara" id="418" lat="21.6938" lng="78.388299"/>
+	<tollmarker name="patansawangi" id="419" lat="21.345025" lng="79.006873"/>
+	<tollmarker name="gegal" id="420" lat="26.552064" lng="74.783202"/>
+	<tollmarker name="pipalaz" id="421" lat="26.156136" lng="74.367117"/>
+	<tollmarker name="gadoi" id="422" lat="21.426464" lng="70.296286"/>
+	<tollmarker name="dari" id="423" lat="20.956942" lng="70.336923"/>
+	<tollmarker name="rahasaragaon" id="424" lat="26.246844" lng="92.544103"/>
+	<tollmarker name="daboka" id="425" lat="26.11312" lng="92.876461"/>
+	<tollmarker name="nazira khat" id="426" lat="26.100609" lng="91.879924"/>
+	<tollmarker name="mandal vyara" id="427" lat="21.13654" lng="73.483542"/>
+	<tollmarker name="bhatia" id="428" lat="21.091568" lng="72.916833"/>
+	<tollmarker name="luharali" id="429" lat="28.50142" lng="77.624194"/>
+	<tollmarker name="somna" id="430" lat="28.062066" lng="77.946801"/>
+	<tollmarker name="lakholi" id="431" lat="21.203022" lng="81.903974"/>
+	<tollmarker name="sundar nagar" id="432" lat="21.230221" lng="81.604699"/>
+	<tollmarker name="raipur" id="433" lat="26.062802" lng="74.056892"/>
+	<tollmarker name="indranagar" id="434" lat="25.830087" lng="73.463136"/>
+	<tollmarker name="birami" id="438" lat="25.367351" lng="73.200083"/>
+	<tollmarker name="uthamam" id="439" lat="25.034806" lng="72.944864"/>
+	<tollmarker name="gaddurur" id="440" lat="13.194057" lng="78.547691"/>
+	<tollmarker name="wepl mathani" id="441" lat="21.13982" lng="79.36813"/>
+	<tollmarker name="runni" id="442" lat="26.373671" lng="85.49445"/>
+	<tollmarker name="s v puram" id="443" lat="13.527984" lng="79.531783"/>
+	<tollmarker name="pattaraiperumbudur" id="444" lat="13.150904" lng="79.835633"/>
+	<tollmarker name="paat sahanipur pipili" id="445" lat="20.13679" lng="85.839081"/>
+	<tollmarker name="methoon" id="446" lat="24.420044" lng="76.503003"/>
+	<tollmarker name="kaniyur" id="447" lat="11.011283" lng="77.07247"/>
+	<tollmarker name="mokha" id="448" lat="22.934388" lng="69.80157"/>
+	<tollmarker name="eethakota" id="450" lat="16.710407" lng="81.826132"/>
+	<tollmarker name="unguturu" id="451" lat="16.823698" lng="81.429352"/>
+	<tollmarker name="chagalmarri" id="452" lat="14.981606" lng="78.573886"/>
+	<tollmarker name="palempalli" id="453" lat="14.517484" lng="78.789867"/>
+	<tollmarker name="Pahammawlein" id="454" lat="25.994106" lng="91.860794"/>
+	<tollmarker name="Rohad" id="455" lat="28.756143" lng="76.792244"/>
+	<tollmarker name="Kishorpura" id="456" lat="25.163716" lng="76.179396"/>
+	<tollmarker name="Mandawada(Gomati)" id="457" lat="25.206538" lng="73.813324"/>
+	<tollmarker name="Negadiya" id="458" lat="25.703828" lng="74.06189"/>
+	<tollmarker name="Surathkal" id="459" lat="13.013785" lng="74.792836"/>
+	<tollmarker name="Bhiknoor" id="460" lat="18.205979" lng="78.397893"/>
+	<tollmarker name="Kunwarpur" id="461" lat="25.674794" lng="82.324995"/>
+	<tollmarker name="Nuruddinpur" id="462" lat="26.035861" lng="81.438191"/>
+	<tollmarker name="Chhuiyapali" id="464" lat="21.300246" lng="82.944547"/>
+	<tollmarker name="Dhank" id="465" lat="21.227324" lng="82.418977"/>
+	<tollmarker name="Vasad" id="466" lat="22.456062" lng="73.070427"/>
+	<tollmarker name="Radhvanaj Kheda" id="467" lat="22.715323" lng="72.74288"/>
+	<tollmarker name="Madina Korsan" id="468" lat="28.927515" lng="76.441336"/>
+	<tollmarker name="Ramayana" id="469" lat="29.100547" lng="75.887765"/>
+	<tollmarker name="Mumbai Pune Express Way" id="2001" lat="18.766616" lng="73.410953"/>
+	<tollmarker name="Yamuna Express Way - Aligarh Exit" id="2010" lat="28.118807" lng="77.575764"/>
+	<tollmarker name="Yamuna ExpressWay - Mathura Exit" id="2011" lat="27.666035" lng="77.733372"/>
+	<tollmarker name="Yamuna ExpressWay - Agra Exit" id="2012" lat="27.302213" lng="78.011733"/>
+	<tollmarker name="DelhiNoidaDirect(DND FlyWay)-Noida-Exit" id="2013" lat="28.578757" lng="77.301371"/>
+	<tollmarker name="DelhiNoidaDirect(DND FlyWay)-MayurVihar-Exit" id="2014" lat="28.585009" lng="77.293759"/>
+	<tollmarker name="Bandra Worli Sea Link" id="2015" lat="19.044057" lng="72.826112"/>
+	<tollmarker name="Electronic city Expressway BETL-1" id="2020" lat="12.842077" lng="77.675406"/>
+	<tollmarker name="elevated section/ electronic city phase-2" id="2022" lat="12.847106" lng="77.674077"/>
+</tollmarkers>

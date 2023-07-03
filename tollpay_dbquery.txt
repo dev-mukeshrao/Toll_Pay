@@ -1,0 +1,107 @@
+->username : tollpay_db
+  password : tollpay
+
+1)Login
+	-> create table login(l_id number(3)primary key, l_type varchar2(30)not null, l_email varchar2(30)not null, password varchar2(30)not null);
+	-> create sequence seq_login start swith 1 increment by 1;
+	-> insert into login values(seq_login.nextval,'admin','admin@gmail.com','admin@123');
+	-> create or replace procedure login_proc_add(l_type in varchar2,l_email in varchar2,password in varchar2) is
+		begin
+			insert into login values(seq_login.nextval,l_type,l_email,password);
+		end;
+
+2)user_matser
+	-> create table user_master(u_id number(3)primary key, u_name varchar2(30)not null, u_mobile number(12)not null, u_email varchar2(30)not null,u_bod date not null);
+	-> create sequence seq_user_master start with 1 increment by 1;
+	-> insert into user_master values(seq_user_master.nextval,'Dhaval',7818074945,'dhaval@gmail.com',to_date('18/12/1994','DD/MM/YYYY'));
+	-> create or replace procedure user_proc_add(name in varchar2,mobile in number,email in varchar2,dob in varchar2) is
+		begin
+			insert into user_master values(seq_user_master.nextval,name,mobile,email,to_date(dob,'DD/MM/YYYY'));
+		end;
+	
+	
+3)booth_master
+	-> create table booth_master(bth_id number(3)primary key, bth_name varchar2(30)not null);
+	-> create sequence seq_booth_master start with 1 increment by 1;
+	-> insert into booth_master values(seq_booth_master.nextval,'bagodara');
+	-> create or replace procedure bth_mstr_proc_add(name in varchar2) is
+		begin
+			insert into booth_master values(seq_booth_master.nextval,name);
+		end;
+	
+4)booth_operator
+	-> create table booth_operator(bo_id number(3)primary key,bo_name varchar2(30)not null,bo_mobile number(12)not null,bo_email varchar2(30)not null,bo_gender char(1) ,bo_address varchar2(100),bo_bod date not null,bth_id number(3),foreign key(bth_Id) references booth_master(bth_Id),check (bo_gender='M' or bo_gender='F'));
+	-> create sequence seq_booth_operator start with 1 increment by 1;
+	-> insert into booth_operator values(seq_booth_operator.nextval,'Mukesh',7572951219,'moksh@gmail.com','M','issanpur,narol',to_date('14/03/1995','DD/MM/YYYY'),1);
+	-> create or replace procedure bth_op_proc_add(name in varchar2,mob in number,email in varchar2,gen in varchar2,address in varchar2,bod in varchar2,bthid in number) is
+		begin
+			insert into booth_operator values(seq_booth_operator.nextval,name,mob,email,gen,address,to_date(bod,'DD/MM/YYYY'),bthid);
+		end;
+	
+5)state_master
+	-> create table	state_master(st_id number(3)primary key,st_name varchar2(20)not null);
+	-> create sequence seq_state_master start with 1 increment by 1;
+	-> insert into state_master values(seq_state_master.nextval,'Gujarat');
+	
+6)city_master
+	-> create table city_master(ct_id number(3)primary key,st_id number(3)not null,ct_name varchar2(20)not null,foreign key(st_Id) references state_master(st_Id));
+	-> create sequence seq_city_master start with 1 increment by 1;
+	-> insert into city_master values(seq_city_master.nextval,1,'Ahmedabad');
+	
+7)vehicle_master
+	-> create table vehicle_master(vh_id number(2)primary key,vh_type varchar2(20)not null);
+	-> create sequence seq_vehicle_master start with 1 increment by 1;
+	-> insert into vehicle_master values(seq_vehicle_master.nextval,'car');
+	-> create or replace procedure veh_mstr_proc_add(type in varchar2) is
+		begin
+			insert into vehicle_master values(seq_vehicle_master.nextval,type);
+		end;
+	
+8)journey_master
+	-> create table journey_master(jh_id number(2)primary key,jh_type varchar2(20)not null);
+	-> create sequence seq_journey_master start with 1 increment by 1;
+	-> insert into journey_master values(seq_journey_master.nextval,'single trip');
+	-> create or replace procedure jrny_proc_add(type in varchar2) is
+		begin
+			insert into journey_master values(seq_journey_master.nextval,type);
+		end;
+	
+9)rate
+	-> create table rate(rt_id number(2)primary key,bth_id number(4)not null,vh_id number(2)not null,single_jrny_rate number(3)not null,return_jrny_rate number(3)not null,foreign key(bth_id) references booth_master(bth_id),foreign key(vh_id) references vehicle_master(vh_id));
+	-> create sequence seq_rate start with 1 increment by 1;
+	-> insert into rate values(seq_rate.nextval,1,1,30,50);
+	-> create or replace procedure rate_proc_add(bthid in number,vhid in number,srate in number,rrate in number) is
+		begin
+			insert into rate values(seq_rate.nextval,bthid,vhid,srate,rrate);
+		end;
+	
+10)contact_master
+	-> create table contact_master(con_id number(3)primary key,name varchar2(30)not null,email varchar2(30)not null,message varchar2(255)not null);
+	-> create sequence seq_contact_master start with 1 increment by 1;
+	-> insert into contact_master values(seq_contact_master.nextval,'Vijay','rathod@gmail.com','Hello world');
+	-> create or replace procedure contact_proc_add(name in varchar2,email in varchar2,message in varchar2) is
+		begin
+			insert into contact_master values(seq_contact_master.nextval,name,email,message);
+		end;
+		
+11)Transaction
+	-> t_id,u_id,vh_no,vh_id,jh_id,doj,t_pay,bth_nm,source,destination,jhtime
+	-> create table transaction(t_id number(3)primary key,u_id number(3)not null,vh_no varchar2(20)not null,vh_id number(3)not null,jh_id number(2)not null,doj date,t_pay number(5)not null,bth_nm varchar2(500) not null,source varchar2(50)not null,destination varchar2(50)not null,jhtime varchar2(30)not null,foreign key(u_id) references login(l_id),foreign key(vh_id) references vehicle_master(vh_id),foreign key(jh_id) references journey_master(jh_id));
+	-> create sequence seq_transaction start with 1 increment by 1;
+	-> insert into transaction values(seq_transaction.nextval,21,'GJ-01-DB-5151',1,1,to_date('01/04/2017','DD/MM/YYYY'),80,'bagodara,bharudi,pithdiya');
+	-> create or replace procedure transaction_proc_add(u_id in number,vh_no in varchar2,vh_id in number,jh_id in number,doj in varchar2,pay in number,bth_nm in varchar2,source in varchar2,destination in varchar2,jhtime in varchar2) is
+		begin
+			insert into transaction values(seq_transaction.nextval,u_id,vh_no,vh_id,jh_id,to_date(doj,'DD/MM/YYYY'),pay,bth_nm,source,destination,jhtime);
+		end;
+	
+12) booth_payment	
+	-> p_id,u_id,vh_no,vh_id,jh_id,doj,pay,bth_id,t_id,flag
+	-> create table booth_payment(p_id number(3)primary key,u_id number(3)not null,t_id number(3)not null,vh_no varchar2(20)not null,vh_id number(3)not null,jh_id number(2)not null,doj date,pay number(5)not null,bth_id number(3) not null,flag number(1),foreign key(u_id) references login(l_id),foreign key(t_id) references transaction(t_id),foreign key(vh_id) references vehicle_master(vh_id),foreign key(jh_id) references journey_master(jh_id),foreign key(bth_id) references booth_master(bth_id));
+	-> create sequence seq_bth_pmt start with 1 increment by 1;
+	-> insert into booth_payment values(seq_bth_pmt.nextval,21,'GJ-01-DB-5151',1,1,to_date('01/04/2017','DD/MM/YYYY'),30,1,0);	
+	->  create or replace procedure bth_pay_proc_add(u_id in number,vh_no in varchar2,vh_id in number,jh_id in number,doj in varchar2,pay in number,bth_id in number,t_id in number) is
+		begin
+			insert into booth_payment values(seq_bth_pmt.nextval,u_id,vh_no,vh_id,jh_id,to_date(doj,'DD/MM/YYYY'),pay,bth_id,0,t_id);
+		end;
+	
+	
